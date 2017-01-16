@@ -37,7 +37,8 @@
 <h5></h5>
 <input type="text">
 <input type='email'>
-<input type="text">
+<textarea>
+</textarea>
 <input type="button">
 </form>
 <section>
