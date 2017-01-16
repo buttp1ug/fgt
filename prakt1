@@ -1,0 +1,53 @@
+<header><img/><nav></nav></header>
+<section>
+<input type= 'button'> <h2></h2><p></p> <input type= 'button'>
+</section>
+<h3></h3>
+<p></p>
+<input type="search">
+<section>
+<header>
+<h6></h6>
+</header>
+<img/>
+<p></p>
+<img/>
+<p></p>
+<header>
+<h6></h6>
+</header>
+<ul>
+<li><p></p></li>
+<li><p></p></li>
+<li><p></p></li>
+</ul>
+<header>
+<h6></h6>
+</header>
+<img/>
+<p></p>
+<input type='button'>
+</section>
+<footer>
+<form>
+<h5></h5>
+<input type="text">
+<input type='email'>
+<input type="text">
+<input type="button">
+</form>
+<section>
+<header><nav></nav></header>
+<h4></h4>
+<a><p></p></a>
+<a><p></p></a>
+<a><p></p></a>
+<a><p></p></a>
+<a><img/></a>
+<a><img/></a>
+<a><img/></a>
+<a><img/></a>
+<a><img/></a>
+<p></p>
+</section>
+</footer>
