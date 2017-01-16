@@ -1,4 +1,4 @@
-<header><img/><nav></nav></header>
+<header><img/><nav><ul><li></li><li></li><li></li><li></li><li></li></ul></nav></header>
 <section>
 <input type= 'button'> <h2></h2><p></p> <input type= 'button'>
 </section>
@@ -37,7 +37,7 @@
 <input type="button">
 </form>
 <section>
-<header><nav></nav></header>
+<header><img/><nav><ul><li></li><li></li><li></li><li></li><li></li></ul></nav></header>
 <h4></h4>
 <a><p></p></a>
 <a><p></p></a>
